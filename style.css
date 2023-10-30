@@ -300,15 +300,15 @@ color: var(--paleBlue);
     
     }
     .card .card-left h4{
-        margin-top: 15px;
+        margin-top: 10px;
         font-size: 18px;
         font-weight: 700;
         color: var(--lightLavender);
-        margin-bottom: 15px;
+        margin-bottom: 10px;
     }
     .card .card-left .circle{
-        width: 144px;
-        height: 144px;
+        width: 134px;
+        height: 134px;
         border-radius: 50%;
 
         background: linear-gradient(to Bottom, var(--violetBlue) , var(--persianBlue) );
