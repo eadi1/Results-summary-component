@@ -276,7 +276,7 @@ color: var(--paleBlue);
 
     .card {
         width:100vw;
-        height: 100vh;
+        height: max-content;
         background-color: var(--white);
         
         display: flex;
